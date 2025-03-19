@@ -1,5 +1,5 @@
 #include <iarduino_NeoPixel.h>
-uint8_t stepp = 0, stBY = 0;
+unsigned int stepp = 0, stBY = 0;
 uint8_t lines[9] = {1, 1, 1, 1, 1, 1, 1, 1, 1};
 uint8_t linesNew[9] = {1, 1, 1, 1, 1, 1, 1, 1, 1};
 uint8_t green = 0;
